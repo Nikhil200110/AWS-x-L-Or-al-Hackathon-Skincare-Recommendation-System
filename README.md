@@ -5,14 +5,6 @@ This project was developed as part of the L'Oréal Skin Condition Classification
 
 ---
 
-## Team Members
-- **Nikhil Gaikwad**  
-- **Abdul Hadi**  
-- **Adetutu Adebayo**  
-- **Amit Joshi**  
-
----
-
 ## Project Pipeline
 The project followed a structured pipeline to achieve its objectives:
 
